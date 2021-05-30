@@ -9,7 +9,6 @@
 :- use_module('skip_pattern_syntax.pl').
 :- use_module('compiler_state.pl').
 :- use_module('compiler_helpers.pl').
-:- use_module('excl_event_types.pl').
 :- use_module('skippable.pl').
 
 
